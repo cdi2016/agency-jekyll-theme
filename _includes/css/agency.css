@@ -6,7 +6,7 @@
 
  body {
     overflow-x: hidden;
-    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
