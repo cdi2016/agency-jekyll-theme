@@ -295,7 +295,7 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
-    font-weight: 700;
+    font-weight: thin;
     line-height: 50px;
 }
 
@@ -318,7 +318,7 @@ header .intro-text .intro-heading {
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
-        font-weight: 700;
+        font-weight: thin;
         line-height: 75px;
     }
 }
