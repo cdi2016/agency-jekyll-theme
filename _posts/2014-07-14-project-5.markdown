@@ -4,8 +4,8 @@ subtitle: Câu lạc bộ JS - ĐH FPT
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: btc.png
-thumbnail: btc-thumb.png
+img: btc.jpg
+thumbnail: btc-thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

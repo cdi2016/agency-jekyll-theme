@@ -4,8 +4,8 @@ subtitle: Lập trình học tiếng Nhật
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: coding2014-img.png
-thumbnail: coding2014.png
+img: coding2014-img.jpg
+thumbnail: coding2014.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
