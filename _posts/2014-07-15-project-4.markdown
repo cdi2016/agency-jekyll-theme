@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <a style="font-size:150%;" href="https://www.facebook.com/CodingInspiration/photos/a.510749545695622.1073741828.352196361550942/550502358387007/?type=3">Xem thông tin chi tiết</a>
+description: <a style="font-size:150%;" href="https://www.facebook.com/CodingInspiration/photos/a.510749545695622.1073741828.352196361550942/550502358387007/?type=3" target="_blank">Xem thông tin chi tiết</a>
 
 ---
