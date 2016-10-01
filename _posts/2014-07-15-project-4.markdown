@@ -1,6 +1,6 @@
 ---
 title: Về Coding Inspiration 2014
-subtitle: Lập trình học tiếng Nhật
+subtitle: Lập trình phần mềm học tiếng Nhật
 layout: default
 modal-id: 4
 date: 2014-07-15

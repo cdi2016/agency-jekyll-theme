@@ -1,0 +1,15 @@
+---
+title: Giới thiệu chương trình
+subtitle: Trailer chính thức
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: play_icon.png
+thumbnail: introduction.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: <iframe width="600" height="400" src="https://www.youtube.com/embed/EYgeNSRGJ9g" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+---
