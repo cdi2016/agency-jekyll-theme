@@ -1,15 +1,14 @@
 ---
-title: Giới thiệu chương trình
-subtitle: Trailer chính thức
+title: Chủ đề cuộc thi
+subtitle: Game on - Japan! 
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: play_icon.png
-thumbnail: introduction.jpg
+img: dreams.jpg
+thumbnail: dreams-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
 category: Web Development
-description: <iframe width="600" height="400" src="https://www.youtube.com/embed/EYgeNSRGJ9g?autoplay=1" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+description: <p style="font-size:120%;">Lập trình game về những nét đặc trưng của đất nước và văn hóa Nhật Bản. <br>Có thể mang một trong các nội dung sau. <br> - Game mang hình ảnh, biểu tượng đặc trưng của đất nước Nhật Bản. <br> - Game hỗ trợ học tập, tìm hiểu ngôn ngữ và văn hóa Nhật Bản. <br> - Game mô phỏng một trò chơi truyền thống của Nhật Bản.</p>
 
 ---
